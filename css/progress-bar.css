@@ -1,0 +1,22 @@
+.container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 4em;
+  line-height: 1.5;
+}
+
+.progress-bar-top{
+  height: 10px;
+  background:gray;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.progress__highlight {
+  transition: width 0.15s linear;
+  background:green;
+  height: 100%;
+  width: 0%;
+}

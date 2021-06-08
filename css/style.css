@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.separacion {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    margin-right: 50px;
+    
+}
+.logo-img{
+    height: 50px;
+    width: 80px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.whats-icon{
+    height: 20px;
+    width: 20px;
+}
+
+.color-personalizado{
+    background-color: transparent !important; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+.images-carousel{
+    height:480px;
+    width: 480px;
+}
+
+/* PAGINA DISEÑO */
+
+/*AQUI ESTÁN LAS LINEAS GUIA DE LA PAGINA DISEÑO */
+.diseño{
+    width: 100%;
+    height: 1000px;
+    font-family: 'Montserrat', sans-serif;  
+}
+
+.espacioblanco12{
+    height:30px;
+    width: 100%;
+}
+
+.espacioblanco13{
+    height:30px;
+    width: 100%;
+}
+
+.diseño-texto{
+    height: 90px;
+    text-align: center;
+}
+
+.diseño-texto h3{
+    align-items: center;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+.diseño-texto p{
+    text-align: justify;
+}
+
+.diseño-imagen1{
+    height: 200px;
+    width: 900px;
+    margin-bottom: 10px;
+}
+
+.diseño-imagen2{
+    height: 200px;
+    width: 900px;
+}
+
+.diseño-imagen3{
+    height: 200px;
+    width: 900px;
+}
+
+
+
+/*AQUI ESTÁN LAS LINEAS GUIA DE LA PAGINA DISEÑO */
+/* PAGINA DISEÑO */
+
+/* SEPARACION */
+.espacioblanco2{
+    height:30px;
+    width: 100%;
+}
+/* SEPARACION */
+
+/* PAGINA CONTACTO */
+.contacto{
+    height: 515px;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.contacto-texto{
+    height:400px;
+}
+
+
+.formulario{
+    height:250px;
+    width: 50px;
+}
+
+.vertical{
+    height: 400px;
+}
+
+/* PAGINA CONTACTO */
+
+/* SEPARACION */
+.espacioblanco3{
+    height:30px;
+    width: 100%;
+}
+/* SEPARACION */
+
+/* PAGINA ACERCA */
+.proyectos{
+    height: 480px;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;  
+}
+
+.proyectos-texto{
+    height: 480px;
+    margin-top: 60px;
+}
+
+.proyectos-texto h3{
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+.proyectos-imagen{
+    height: 480px;
+}
+/* PAGINA ACERCA */
+
+
+/*Separacion*/
+.espacioblanco4{
+    height:50px;
+    width: 100%;
+}
+/*/Separacion*/
+
+.proyectos1{
+    margin-bottom: 100px;
+}
+
+
